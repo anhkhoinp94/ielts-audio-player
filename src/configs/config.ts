@@ -2,7 +2,7 @@ import ConfigType from "./ConfigType";
 
 const defaultConfig: ConfigType = {
   APP_NAME: "Nhac lau",
-  API_URL: "https://anhkhoinp94.github.io/song-storage/",
+  API_URL: "https://anhkhoinp94.github.io/ielts-audio-player-storage/",
   IS_AWESOME: import.meta.env.VITE_IS_AWESOME === "true" ? true : false,
   LAYOUT_PADDING: 1,
   EMPTY_FUNCTION: () => { },
