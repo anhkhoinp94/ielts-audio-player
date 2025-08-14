@@ -18,5 +18,5 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 1600,
   },
-  base: "/song-app",
+  base: "/ielts-audio-player",
 });
